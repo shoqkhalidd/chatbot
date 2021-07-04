@@ -6,5 +6,5 @@ using IBM watson assistant
 
 ## repository index
 
-- [chatbot as JSON]() file
-- [chatbot as a script]()
+- [chatbot as JSON](Robot-interface/skill-Customer-Care-ENG.json) file
+- [chatbot as a script](Robot-interface/script.js)
